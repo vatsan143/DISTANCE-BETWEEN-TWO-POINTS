@@ -22,15 +22,17 @@ End the program.
 ### PROGRAM:
 
 developed by: srivatsan G
+
 register number: 212223230216
 
+```
 import math
 x1, y1 = 4, 2
 x2, y2 = 10, 6
 distance = math.sqrt((x2 - x1) ** 2 + (y2 - y1) ** 2)
 print("{:.2f}".format(distance))
 
-
+```
 ### OUTPUT:
 ![DISTANCE-BETWEEN-TWO-POINTS](https://github.com/vatsan143/DISTANCE-BETWEEN-TWO-POINTS/assets/147368204/d455925a-fa85-48ef-80bb-2025c22574ae)
 
