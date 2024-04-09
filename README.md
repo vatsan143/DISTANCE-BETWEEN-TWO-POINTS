@@ -21,9 +21,9 @@ End the program.
 
 ### PROGRAM:
 
-developed by: srivatsan G
+Developed by: Srivatsan G
 
-register number: 212223230216
+Register number: 212223230216
 
 ```
 import math
